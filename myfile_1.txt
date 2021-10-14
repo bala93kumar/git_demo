@@ -10,3 +10,6 @@ git commit
 git log 
 
 made new changes
+
+
+made new changes 1 and initial commit
