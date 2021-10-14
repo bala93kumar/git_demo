@@ -1,0 +1,12 @@
+test commit files
+
+
+git status 
+
+git add 
+
+git commit 
+
+git log 
+
+made new changes
